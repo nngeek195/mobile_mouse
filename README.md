@@ -7,6 +7,7 @@ This is a fully functional python base application. This helps to users to contr
 1. This is very light and simple
 2. No need to get any applcation for mobile
 3. Mobile OS is not relavant to use (IOS user can simply use this to share their files with their windows Pcs)
+4. Fully functional mouse controller and also sound controller in here 
 
 ## How use this (Developers)
 - If you need to do development, please clone the repo and do your developments.
